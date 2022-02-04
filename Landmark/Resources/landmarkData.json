@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Hong Kong",
+        "parent": "China",
+        "type": "Special Administrative Region",
+        "id": 1001,
+        "isFavorite": true,
+        "description": "The flag of Hong Kong, officially the regional flag of the Hong Kong Special Administrative Region of the People's Republic of China, depicts a white stylised five-petal Hong Kong orchid tree (Bauhinia blakeana) flower in the centre of a Chinese red field. Its original design was unveiled on 4 April 1990 at the Third Session of the Seventh National People's Congress. The current design was approved on 10 August 1996 at the Fourth Plenum of the Preparatory Committee of the Hong Kong Special Administrative Region. The precise use of the flag is regulated by laws passed by the 58th executive meeting of the State Council held in Beijing. The design of the flag is enshrined in Hong Kong's Basic Law, the territory's constitutional document, and regulations regarding the use, prohibition of use, desecration, and manufacture of the flag are stated in the Regional Flag and Regional Emblem Ordinance. The flag of Hong Kong was officially adopted and hoisted on 1 July 1997, during the handover ceremony marking the transfer of sovereignty from the United Kingdom back to China.",
+        "imageName": "200px-Flag_of_Hong_Kong_(1990).svg",
+        "parentName": "255px-Flag_of_the_People's_Republic_of_China.svg"
+    },
+    {
+        "name": "Quebec",
+        "parent": "Canada",
+        "type": "Province",
+        "id": 1002,
+        "isFavorite": false,
+        "description": "The flag of Quebec, called the Fleurdelisé (the Lily-flowered) represents the Canadian province of Quebec. It consists of a white cross on a blue background, with four white fleurs-de-lis. It was adopted by the government of Quebec during the administration of Maurice Duplessis (March 9, 1950). It was the first provincial flag officially adopted in Canada, first shown on January 21, 1948, at the Parliament Building of the National Assembly in Quebec City. Quebec's Flag Day (January 21) commemorates its adoption each year, though for some time it was celebrated in May. At least one parade marked the flag's 60th anniversary in January 2008.",
+        "imageName": "1200px-Flag_of_Quebec.svg",
+        "parentName": "Flag_of_Canada_(Pantone)"
+    },
+    {
+        "name": "Texas",
+        "parent": "United States of America",
+        "type": "State",
+        "id": 1003,
+        "isFavorite": true,
+        "description": "The flag of Texas is the official flag of the U.S. state of Texas. It is well known for its prominent single white star which gives the flag its commonly-used name: \"Lone Star Flag\". This lone star, in turn, gives rise to the state's nickname: \"The Lone Star State\". The flag, flown at homes and businesses statewide, is highly popular among Texans and is treated with a great degree of reverence and esteem within Texas. Along with the flag of Hawaii, it is one of two state flags to have previously served as a national flag. In 2001, the North American Vexillological Association surveyed its members on the designs of the 72 U.S. state, territorial, and Canadian provincial flags and ranked the Texas flag second, behind New Mexico.",
+        "imageName": "1200px-Flag_of_Texas.svg",
+        "parentName": "1200px-Flag_of_the_United_States.svg"
+    },
+    {
+        "name": "Bavaria (Striped)",
+        "parent": "Germany",
+        "type": "State",
+        "id": 1004,
+        "isFavorite": true,
+        "description": "There are officially two flags of Bavaria: the striped type and the lozenge type, both of which are white and blue. Both flags are historically associated with the royal Bavarian Wittelsbach family, which ruled Bavaria from 1180 to 1918.",
+        "imageName": "Flag_of_Bavaria_(striped).svg",
+        "parentName": "1200px-Flag_of_Germany.svg"
+    },
+    {
+        "name": "New Mexico",
+        "parent": "United States of America",
+        "type": "State",
+        "id": 1005,
+        "isFavorite": false,
+        "description": "The flag of the U.S. state of New Mexico consists of a red sun symbol of the Zia people on a field of gold (yellow), and was officially introduced in 1925. It was designed in 1920, to highlight the state's Native American Pueblo and Nuevo México Hispano roots. The symbology is designed to represent the Puebloans and the colors of the flag of Spain. It is one of four U.S. state flags not to contain the color blue (the other three being Alabama, California, and Maryland). It is the only one of these four not to contain the color white. The flag of the District of Columbia also has no blue, although it is partially white, making the New Mexico flag the only US flag with no blue or white.",
+        "imageName": "flag-New-Mexico-state-flags-one-design-March-15-1925",
+        "parentName": "1200px-Flag_of_the_United_States.svg"
+    },
+    {
+        "name": "Gibraltar",
+        "parent": "United Kingdom",
+        "type": "British Overseas Territory",
+        "id": 1006,
+        "isFavorite": false,
+        "description": "The flag of Gibraltar is an elongated banner of arms based on the coat of arms of Gibraltar, granted by Royal Warrant from Queen Isabella I of Castile on 10 July 1502. The flag of Gibraltar is unique as it is the only British Overseas Territory which does not feature the Union Flag in any form although it is widely flown as a stand-alone flag within the territory.",
+        "imageName": "gibraltarFlag",
+        "parentName": "Image"
+    },
+    {
+        "name": "Scotland",
+        "parent": "United Kingdom",
+        "type": "National Flag",
+        "id": 1007,
+        "isFavorite": false,
+        "description": "The flag of Scotland (Scottish Gaelic: bratach na h-Alba; Scots: Banner o Scotland, also known as St Andrew's Cross or the Saltire) is the national flag of Scotland, which consists of a white saltire defacing a blue field. The Saltire, rather than the Royal Standard of Scotland, is the correct flag for all private individuals and corporate bodies to fly. It is also, where possible, flown from Scottish Government buildings every day from 8:00 am until sunset, with certain exceptions. Use of the flag is first recorded with the illustration of a heraldic flag in Sir David Lyndsay of the Mount's Register of Scottish Arms, c. 1542. It is possible that this is based on a precedent of the late 15th century, the use of a white saltire in the canton of a blue flag reputedly made by Queen Margaret, wife of James III (1451–1488).",
+        "imageName": "Flag_of_Scotland",
+        "parentName": "Image"
+    },
+    {
+        "name": "Baden-Württemberg",
+        "parent": "Germany",
+        "type": "State Flag",
+        "id": 1008,
+        "isFavorite": false,
+        "description": "The flag of Baden-Württemberg has three variants. The civil flag (Landesflagge) has one design, while the state flag (Landesdienstflagge), has two designs. All three flags are a black over gold bi-color, while the state flag has one of two variants of the state arms centered on the flag.",
+        "imageName": "Flag_of_Baden-Württemberg",
+        "parentName": "1200px-Flag_of_Germany.svg"
+    }
+]
